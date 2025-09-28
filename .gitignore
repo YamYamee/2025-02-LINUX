@@ -1,0 +1,17 @@
+# Kernel build outputs
+*.o
+*.ko
+*.mod
+*.cmd
+*.tmp
+*.symvers
+*.order
+*.mod.c
+*.dtb
+*.dtb.tmp
+*.bin
+*.img
+*.elf
+vmlinux
+.tmp_vmlinux.*
+
